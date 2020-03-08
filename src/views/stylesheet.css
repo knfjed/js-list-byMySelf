@@ -1,0 +1,24 @@
+body {
+  background-color: lightsteelblue;
+  margin-left: 40%;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 20px;
+  color: white;
+  height: 50px;
+  width: 100%;
+  margin-top: 50px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+ul {
+  color: white;
+}
+
+.lineThrough {
+  text-decoration: line-through;
+}
